@@ -1,0 +1,56 @@
+img{
+    max-width: 100%;
+   display: block;
+   height: auto;
+   margin: 0 auto;
+ }
+ #header{
+    font-family: 'Courier Prime', 
+      monospace;
+     padding: 50px;
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-left: 50px;
+   margin-right: 50px;
+     background-color: #EEE9E2;   
+     font-size: 60px;
+     justify-content: center;
+     text-align: center;
+ }
+ 
+ hr{
+     border: 2px solid black;
+ }
+ 
+ a:active {
+         text-decoration: underline;
+       }
+       a:link {
+         text-decoration: none;
+       }
+       
+       a:visited {
+         text-decoration: none;
+       }
+       
+       a:hover {
+         text-decoration: underline;
+       }
+   
+    #tribute-link{
+       color: #F6680C;
+       text-align: center;
+       content: center;
+ }
+ #ajgs{
+   color: #FFFCFF;
+ }
+ h1{
+    color: #F6680C;
+ }
+ p{
+   font-size: 35px;
+ }
+ strong{
+   font-size: 50px;
+ }
